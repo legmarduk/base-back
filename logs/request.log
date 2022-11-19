@@ -1,0 +1,43 @@
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"http","message":{"endpoint":"GET /api/ping","headers":{"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"es-CL,es;q=0.8,en-US;q=0.5,en;q=0.3","connection":"keep-alive","host":"localhost:8000","if-none-match":"W/\"4-DlFKBmK8tp3IY5U9HOJuPUDoGoc\"","sec-fetch-dest":"document","sec-fetch-mode":"navigate","sec-fetch-site":"none","sec-fetch-user":"?1","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0"},"query":{}}}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"http","message":{"endpoint":"GET /api/ping","headers":{"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"es-CL,es;q=0.8,en-US;q=0.5,en;q=0.3","connection":"keep-alive","host":"localhost:8000","if-none-match":"W/\"4-DlFKBmK8tp3IY5U9HOJuPUDoGoc\"","sec-fetch-dest":"document","sec-fetch-mode":"navigate","sec-fetch-site":"cross-site","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0"},"query":{}}}
+{"level":"http","message":{"endpoint":"GET /api/ping","headers":{"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"es-CL,es;q=0.8,en-US;q=0.5,en;q=0.3","connection":"keep-alive","host":"localhost:8000","if-none-match":"W/\"4-DlFKBmK8tp3IY5U9HOJuPUDoGoc\"","sec-fetch-dest":"document","sec-fetch-mode":"navigate","sec-fetch-site":"none","sec-fetch-user":"?1","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0"},"query":{}}}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"http","message":{"body":{},"endpoint":"GET /api/ping","headers":{"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"es-CL,es;q=0.8,en-US;q=0.5,en;q=0.3","connection":"keep-alive","host":"localhost:8000","if-none-match":"W/\"4-DlFKBmK8tp3IY5U9HOJuPUDoGoc\"","sec-fetch-dest":"document","sec-fetch-mode":"navigate","sec-fetch-site":"none","sec-fetch-user":"?1","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0"},"query":{}}}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":{"body":{},"endpoint":"GET /api/ping","headers":{"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"es-CL,es;q=0.8,en-US;q=0.5,en;q=0.3","connection":"keep-alive","host":"localhost:8000","if-none-match":"W/\"4-DlFKBmK8tp3IY5U9HOJuPUDoGoc\"","sec-fetch-dest":"document","sec-fetch-mode":"navigate","sec-fetch-site":"none","sec-fetch-user":"?1","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0"},"query":{}}}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"http","message":{"body":{},"endpoint":"GET /api/ping","headers":{"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"es-CL,es;q=0.8,en-US;q=0.5,en;q=0.3","connection":"keep-alive","host":"localhost:8000","if-none-match":"W/\"4-DlFKBmK8tp3IY5U9HOJuPUDoGoc\"","sec-fetch-dest":"document","sec-fetch-mode":"navigate","sec-fetch-site":"none","sec-fetch-user":"?1","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0"},"query":{}}}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
+{"level":"info","message":"server up: localhost:8000"}
